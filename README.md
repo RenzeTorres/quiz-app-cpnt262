@@ -1,5 +1,6 @@
 # quiz-app-cpnt262
 Renze Torres
+Are You Smarter Than a 5th Grader Quiz
 
 ## Overview
 Using JavaScript, I made a quiz app filled with "Are You Smarter Than a 5th Grader" type questions that are multiple choice.
